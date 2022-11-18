@@ -5,7 +5,7 @@
 [![NPM](https://img.shields.io/github/license/feliperasan/component-starwars-dio)](https://github.com/feliperasan/component-starwars-dio/blob/main/LICENSE)
 
 # Sobre o Projeto
-Star Wars Noticias, é um projeto que consiste em criar cards de noticias utilizando o conceito de componentização, o projeto foi feito durante o Fullstack Bootcamp - Warburg Pincus, da plataforma [DIO](https://www.dio.me), no modulo "Começando com o FrameWork Angular".
+Star Wars Noticias, é um projeto que consiste em criar cards de noticias utilizando o conceito de componentização. O projeto foi feito durante o Fullstack Bootcamp - Warburg Pincus, da plataforma [DIO](https://www.dio.me), no modulo "Começando com o FrameWork Angular".
 
 ## Layout Web
 <img src="https://user-images.githubusercontent.com/32422863/202016962-8cb2ffba-0e27-4cbd-89e2-1121050a522e.png" alt="imagem do projeto"/>
